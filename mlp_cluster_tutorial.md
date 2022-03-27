@@ -33,7 +33,7 @@ conda activate mlp
 
 ```sh
 conda install git
-git clone git@github.com:austin-pan/lowpoly-GAN.git
+git clone https://github.com/austin-pan/lowpoly-GAN.git
 cd lowpoly-GAN
 ```
 * Install required packages, e.g. `pytorch` and `gdown`
